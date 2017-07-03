@@ -1,0 +1,25 @@
+{
+  "name": "panasonic-scanner-fzn1",
+  "version": "1.0.0",
+  "description": "Cordova plugin for activating barcode scanner on Panasonic FZ-N1 Toughpad",
+  "cordova": {
+    "id": "PanasonicScanner",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbrown333/panasonic-scanner-fzn1.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Matthew Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbrown333/panasonic-scanner-fzn1/issues"
+  },
+  "homepage": "https://github.com/mbrown333/panasonic-scanner-fzn1#readme"
+}
